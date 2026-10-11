@@ -1,0 +1,5 @@
+# Verified Linux reproduction environment: Python 3.13.5
+# These packages are for the two included fixed-case scripts (gemmi is NOT required).
+# Other historical/Work audit environments are described in provenance/validation.md.
+rdkit==2025.9.4
+numpy==2.3.5

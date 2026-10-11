@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this fixed-case technical record, please cite the archived release."
+type: software
+title: "A Local Stereochemistry Audit of Two Public TankBind Test Cases"
+authors:
+  - family-names: Miyazaki
+    given-names: Sho
+    affiliation: "Independent researcher, Tokyo, Japan"
+version: 1.0.0
+license: MIT
+abstract: >-
+  Fixed-case computational record of local tetrahedral orientation for five preselected
+  carbon centers in two public PoseBusters TankBind test fixtures, using a common
+  crystal-derived graph and predetermined atom mappings. All five local orientations
+  were preserved within the specified coordinate-text rounding envelope. Includes
+  fixed-case analysis, results, reconstructed transformation controls, and provenance;
+  no general TankBind performance claim or PoseBusters error claim is made.
+keywords:
+  - TankBind
+  - PoseBusters
+  - local stereochemistry
+  - atom mapping
+  - reproducibility
