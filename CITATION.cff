@@ -6,6 +6,7 @@ authors:
   - family-names: Miyazaki
     given-names: Sho
     affiliation: "Independent researcher, Tokyo, Japan"
+    orcid: "https://orcid.org/0009-0001-1577-1217"
 version: 1.0.0
 license: MIT
 abstract: >-
